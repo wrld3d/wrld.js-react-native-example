@@ -1,0 +1,20 @@
+node_modules
+.expo/*
+.expo-shared/*
+npm-debug.*
+debug.log
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+
+# macOS
+.DS_Store
+
+#
+build
+src/app/map/view/inline_source

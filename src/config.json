@@ -1,0 +1,6 @@
+{
+    "wrld_sdk_version": "v0.1.2255",
+    "wrld_api_key": "INSERT_WRLD_API_KEY",
+    "indoors_enabled": true,
+    "wrld_indoor_control_version": "latest"
+}

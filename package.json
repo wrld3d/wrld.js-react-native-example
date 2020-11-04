@@ -1,0 +1,35 @@
+{
+  "name": "wrld.js-react-native-example",
+  "main": "src/app/index.js",
+  "scripts": {
+    "lint": "eslint --ext .js,.jsx src -c .eslintrc.json",
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject",
+    "build:webview": "sh ./scripts/build_webview_html.sh"
+  },
+  "dependencies": {
+    "expo-location": "^9.0.1",
+    "expo-screen-orientation": "^2.0.0",
+    "react": "^17.0.1",
+    "react-native": "0.63.3",
+    "react-native-webview": "10.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-loader": "^8.1.0",
+    "babel-plugin-root-import": "^6.6.0",
+    "babel-preset-expo": "^8.3.0",
+    "eslint": "^7.12.1",
+    "eslint-plugin-react": "^7.21.5",
+    "expo": "^39.0.3",
+    "html-webpack-inline-source-plugin": "1.0.0-beta.2",
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "private": true
+}
