@@ -1,5 +1,6 @@
 {
   "name": "wrld.js-react-native-example",
+  "author": "WRLD",
   "license": "See license in LICENSE.md",
   "main": "src/app/index.js",
   "scripts": {
