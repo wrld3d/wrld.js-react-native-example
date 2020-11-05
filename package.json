@@ -1,5 +1,6 @@
 {
   "name": "wrld.js-react-native-example",
+  "license": "See license in LICENSE.md",
   "main": "src/app/index.js",
   "scripts": {
     "lint": "eslint --ext .js,.jsx src -c .eslintrc.json",

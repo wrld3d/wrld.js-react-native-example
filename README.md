@@ -57,3 +57,6 @@ npm install
 ## Limitations
 *   WebGL does not work on all mobile devices.
 *   [wrld.js](https://github.com/wrld3d/wrld.js) is not optimized for mobile. See the [Android](https://www.wrld3d.com/android/latest/docs/examples/) and [iOS](https://www.wrld3d.com/ios/latest/docs/examples/) SDKs for full mobile support.
+
+## License
+This example is released under the Simplified BSD License. See [LICENSE.md](LICENSE.md) for details.
