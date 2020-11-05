@@ -51,7 +51,6 @@ if (config.indoors_enabled) {
 import WebViewMessenger from "./WebViewMessenger";
 import mapController from "./MapController";
 
-//window.alert("init");
 const messenger = new WebViewMessenger();
 mapController.init(mapId, messenger);
 

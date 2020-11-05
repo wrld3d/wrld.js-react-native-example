@@ -19,7 +19,6 @@ export default class WebViewMessenger extends IMessenger {
 
     _onMessage(event) {
         const message = Message(event.data.type, event.data.data);
-        //alert("Message received: " + message.type);
         this._emit(message.type, message.data);
     }
 
