@@ -17,7 +17,7 @@ webpackOutputName="webView.bundle.js"
 webpackInlineHtml="webView.html"
 
 echo "Compiling source to inline html..."
-webpack -d --config webpack.config.js --env.entry=$webpackEntry --env.outputName=$webpackOutputName --env.inlineHtml=$webpackInlineHtml
+webpack -p --config webpack.config.js --env.entry=$webpackEntry --env.outputName=$webpackOutputName --env.inlineHtml=$webpackInlineHtml
 
 outputFileName="webViewHtml.js"
 
