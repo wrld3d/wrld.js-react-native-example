@@ -23,6 +23,8 @@ This is an example of how [wrld.js](https://github.com/wrld3d/wrld.js) could be 
     -   See [here](https://docs.expo.io/workflow/ios-simulator/) for iOS simulators
 *   A [WRLD API key](https://accounts.wrld3d.com/#/tab-keys) which can be obtained by signing up for a free account at [wrld3d.com](https://wrld3d.com)
 
+You can view the example on your Android device in the [Expo Development Client](https://expo.io/tools#client). Just paste this url https://exp.host/@wrld3d/Wrld/index.exp?sdkVersion=39.0.0 into the Client.
+
 ## Getting started
 
 ### Installation
