@@ -13,11 +13,11 @@
     "build:webview": "sh ./scripts/build_webview_html.sh"
   },
   "dependencies": {
-    "expo-location": "^9.0.1",
-    "expo-screen-orientation": "^2.0.0",
+    "expo-location": "^12.0.4",
+    "expo-screen-orientation": "^3.1.0",
     "react": "^17.0.1",
-    "react-native": "0.63.3",
-    "react-native-webview": "11.0.0"
+    "react-native": "^0.63.4",
+    "react-native-webview": "11.2.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
@@ -27,7 +27,7 @@
     "babel-preset-expo": "^8.3.0",
     "eslint": "^7.12.1",
     "eslint-plugin-react": "^7.21.5",
-    "expo": "^39.0.3",
+    "expo": "^41.0.0",
     "html-webpack-inline-source-plugin": "1.0.0-beta.2",
     "html-webpack-plugin": "^4.5.0",
     "webpack": "^4.44.2",

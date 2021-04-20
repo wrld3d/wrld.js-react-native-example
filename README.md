@@ -12,7 +12,7 @@ This is an example of how [wrld.js](https://github.com/wrld3d/wrld.js) could be 
 
 *   [Node.js](https://nodejs.org/en/) (v12.8.2 tested)
 *   npm (installed with Node.js)
-*   [Expo CLI](https://docs.expo.io/workflow/expo-cli/) installed globally (v3.28.4 tested)
+*   [Expo CLI](https://docs.expo.io/workflow/expo-cli/) installed globally (v4.4.2 tested)
     ```sh
     npm i -g expo-cli
     ```
