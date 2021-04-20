@@ -14,7 +14,7 @@ class DeviceLocationService {
             return new Promise((_resolve, reject) => { reject({ message }); });
         }
 
-        const response = await Loc.requestPermissionsAsync();
+        const response = await Loc.requestForegroundPermissionsAsync();
         console.log("device location permission response");
         console.log(response);
         if (!response.granted) {
