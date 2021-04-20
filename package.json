@@ -17,7 +17,7 @@
     "expo-screen-orientation": "^3.1.0",
     "react": "^17.0.1",
     "react-native": "^0.64.0",
-    "react-native-webview": "11.0.0"
+    "react-native-webview": "11.2.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
